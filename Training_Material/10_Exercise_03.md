@@ -71,3 +71,9 @@ d)
     git commit
 
 This switches to the branch called **new-branch** and stages the files and commits it there. However it does not create the **new-branch**. Thus (assuming the **new-branch** needs to be created) we would get an error from Git.
+
+______________________________________
+
+[Previous  : Branches](09_Branches.md)  
+
+[Next      : Forking](11_Forking.md)
