@@ -29,7 +29,7 @@ The material exemplifies the use of Git in a Windows device (using Git-Bash term
 
 ## License
 
-The material found in this repository is licensed under a [Creative Commons Attribution 4.0 International License (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/). See LICENSE file.  
+The material found in this repository is licensed under a [Creative Commons Attribution 4.0 International License (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/). See [LICENSE](LICENSE.md) file.  
 
 
 ## Contributions
