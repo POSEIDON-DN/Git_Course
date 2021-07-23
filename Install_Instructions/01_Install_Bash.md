@@ -9,7 +9,7 @@ Bash is the **Bourne Again SHell**, one of the most popular **Unix Shell** there
 ________________________
 
 [Next      : Install Bash on Windows](02_Install_Bash_on_Windows.md)  
-[Next      : Install Bash on Linux](03_Install_Bash_on_Linux.md)  
-[Next      : Install Bash on MacOS](04_Install_Bash_on_MacOS.md)  
+[Next      : Install Bash on MacOS](03_Install_Bash_on_MacOS.md)  
+[Next      : Install Bash on Linux](04_Install_Bash_on_Linux.md)  
 
 [Go back  : Start Here](00_Start_Here.md)  
