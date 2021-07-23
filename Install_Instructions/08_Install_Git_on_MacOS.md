@@ -4,7 +4,7 @@ After installing **Git**, there will not be anything in your `/Applications` fol
 
 For older versions of OS X (10.5-10.8) use the most recent available installer labelled "snow-leopard" available [here](https://sourceforge.net/projects/git-osx-installer/files/).
 
-
+Now that you have installed Bash and Git, you can proceed to check out the material found in the `Training_Material/` directory.
 ________________________
 
-[Go back  : Start](00_Start_Here.md)  
+[Go back  : Start Here](00_Start_Here.md)  
