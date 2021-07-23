@@ -6,17 +6,10 @@ Bash is the **Bourne Again SHell**, one of the most popular **Unix Shell** there
 
 ![Figure_UnixShell](../Figures/Figure_UnixShell.png)
 
-## How to install Bash?
-
-* [Installing Bash Shell on Windows](Install-Bash-on-Windows)
-* [Installing Bash Shell on Linux](Install-Bash-on-Linux)
-* [Installing Bash Shell on MacOS](Install-Bash-on-MacOS)
-
-## Not very familiar with Bash commands?
-
-Check out the [Typing Bash Commands](Typing-Bash-Commands) for an overview of the fundamental commands to get you started in Bash.
 ________________________
 
-[Next     : Installing Git](Installing-Git)
+[Next      : Install Bash on Windows](02_Install_Bash_on_Windows.md)
+[Next      : Install Bash on Linux](03_Install_Bash_on_Linux.md)
+[Next      : Install Bash on MacOS](04_Install_Bash_on_MacOS.md)
 
-[Go back  : Start](00_Start_Here.md)  
+[Go back  : Start Here](00_Start_Here.md)  
