@@ -21,11 +21,11 @@ In order to install Bash on Windows you are encouraged to install **Git** in you
 -	Quit the command prompt by typing `exit` and pressing the `Enter` key.
 
 
-Now that you have installed Bash in your system, check out its fundamental commands in the [Typing Bash Commands](Typing-Bash-Commands) section. Already familiar with Bash? Then you have everything you need for the training on Git!
+Now that you have installed Bash in your system, check out Bash fundamental commands in the [Typing Bash Commands](05_Typing_Bash_Commands.md) section. Already familiar with Bash? Then you can continue with installing Git.
 
 
 ___________________________
 
-[Previous : Installing Bash](01_Install_Bash.md)  
+[Previous : Install Git](06_Install_Git.md)  
 
-[Go back  : Start](00_Start_Here.md)  
+[Go back  : Start Here](00_Start_Here.md)  
