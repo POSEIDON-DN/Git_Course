@@ -25,16 +25,12 @@ When doing version control with Git and using (for example) Gitlab, you will be 
 
 Thus in order to do version control with Git on your *local* files (and "synchronize" it with a *remote* repo), you need to **install Git** in your device (your work laptop/station).
 
-
-## Installing Git
-
-* [Installing Git on Windows](Install-Git-on-Windows)
-* [Installing Git on Linux](Install-Git-on-Linux)
-* [Installing Git on MacOS](Install-Git-on-MacOS)
-
 ________________________
 
-[Previous : Installing Bash](01_Install_Bash.md)  
+[Next     : Install Git on Windows](07_Install_Git_on_Windows.md)  
+[Next     : Install Git on MacOS](08_Install_Git_on_MacOS.md)  
+[Next     : Install Git on Linux](09_Install_Git_on_Linux.md)  
 
+[Previous : Install Bash](01_Install_Bash.md)  
 
-[Go back  : Start](Start-Here)  
+[Go back  : Start Here](00_Start_Here.md)  
