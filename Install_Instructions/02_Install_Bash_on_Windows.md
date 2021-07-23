@@ -26,6 +26,8 @@ Now that you have installed Bash in your system, check out Bash fundamental comm
 
 ___________________________
 
-[Previous : Install Git](06_Install_Git.md)  
+[Next     : Install Git](06_Install_Git.md)  
+
+[Previous : Install Bash](01_Install_Bash.md)  
 
 [Go back  : Start Here](00_Start_Here.md)  
