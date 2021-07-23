@@ -2,9 +2,12 @@ In order to follow the material of this repository, you are asked to install **B
 
 In the contents of this directory you will find:
 
-- instructions on how to [**install Bash**](Installing-Bash) in different operating systems;
-- instructions on how to [**install Git**](Installing-Git) in different operating systems; 
-- summary of fundamental [**Bash commands**](Typing-Bash-Commands) you need to keep in mind during the Git training. 
+- instructions on how to [**install Bash**](01_Install_Bash.md) in different operating systems;
+- instructions on how to [**install Git**](06_Install_Git.md) in different operating systems; 
+- summary of fundamental [**Bash commands**](05_Typing_Bash_Commands.md) you need to keep in mind during the Git training. 
+
+You can follow the contents of each file in sequential order following the numbers the file names start with, or you can follow the order suggested by the **Next** link at the end of each page. You can also always come back to this page by clicking the **Go back** link at the end of each page.
+
 
 ![coding-1841550_1920](../Figures/coding-1841550_1920.jpg)
 
