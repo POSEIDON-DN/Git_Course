@@ -200,8 +200,8 @@ Interested to practice exercises about Bash? Visit the [Software Carpentry lesso
 
 ________________________
 
-[Previous : Installing Bash](01_Install_Bash.md)
+[Previous : Install Bash](01_Install_Bash.md)
 
-[Next : Installing Git](06_Install_Git.md)
+[Next     : Install Git](06_Install_Git.md)
 
-[Go back  : Start](00_Start_Here.md)  
+[Go back  : Start Here](00_Start_Here.md)  
