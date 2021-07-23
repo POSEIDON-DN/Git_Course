@@ -13,4 +13,8 @@ You can follow the contents of each file in sequential order following the numbe
 
 Image by [Pexels](https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1841550) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1841550)
 
-______________________
+________________________
+
+[Next     : Install Bash](01_Install_Bash.md)
+
+[Go back  : Start Here](00_Start_Here.md)  
